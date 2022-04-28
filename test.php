@@ -19,7 +19,7 @@
 <body>
     <div class="morph">
         <div class="pic">
-        <img src="https://.........."></img>
+        <h2>Knotysnc pvt ltd</h2>
         </div>
     </div>
 </body>
